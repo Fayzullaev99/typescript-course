@@ -1,3 +1,28 @@
+
+// DOM
+
+// const box = document.querySelector('.box') as HTMLElement;
+// const input = document.querySelector('input') as HTMLInputElement;
+// const text = document.querySelector('.text') as HTMLParagraphElement;
+// const link = document.querySelector('.link') as HTMLLinkElement
+// const links = document.querySelectorAll('a')
+
+// box.textContent = "BYE"
+// input.value = '44'
+// link.href = 'test.com'
+// // text.innerHTML = '000'
+
+// link.addEventListener('click', (e:MouseEvent)=>{
+//     e.preventDefault()
+//     text.innerHTML = '000'
+// })
+
+
+
+
+
+
+
 // function processsingData<T>(data:T):T {
     
 
